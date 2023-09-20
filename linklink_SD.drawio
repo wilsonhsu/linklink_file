@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T06:47:02.479Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8YhH07R7F40s2AFPm7g9" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T06:47:26.279Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="YKigscdqC2NXBd6rQZET" version="21.7.5" type="github">
   <diagram name="第 1 页" id="4QuaWNe_hiOepeo5dMNq">
     <mxGraphModel dx="1615" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,13 +155,13 @@
           <mxGeometry x="480" y="1290" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1_NJj8xl-dc6zlVxFNVT-38" value="第一階段開發" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="10" width="120" height="30" as="geometry" />
+          <mxGeometry x="-70" y="110" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1_NJj8xl-dc6zlVxFNVT-39" value="第二階段開發" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="70" y="50" width="120" height="30" as="geometry" />
+          <mxGeometry x="-70" y="150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1_NJj8xl-dc6zlVxFNVT-40" value="第三階段開發" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="70" y="90" width="120" height="30" as="geometry" />
+          <mxGeometry x="-70" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1_NJj8xl-dc6zlVxFNVT-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1_NJj8xl-dc6zlVxFNVT-41" target="1_NJj8xl-dc6zlVxFNVT-44">
           <mxGeometry relative="1" as="geometry" />
