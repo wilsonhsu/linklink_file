@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T06:34:45.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="hNz0SXRixQYzxjrKqn-b" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T06:37:28.444Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="LiISdzBGnkg89nPuXXid" version="21.7.5" type="github">
   <diagram name="第 1 页" id="4QuaWNe_hiOepeo5dMNq">
     <mxGraphModel dx="788" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="1_NJj8xl-dc6zlVxFNVT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XfGpCmavymiBI0RvdFzj-5" target="1_NJj8xl-dc6zlVxFNVT-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XfGpCmavymiBI0RvdFzj-5" value="W3 頁面數據" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XfGpCmavymiBI0RvdFzj-5" value="W3 頁面數據" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="280" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XfGpCmavymiBI0RvdFzj-6" value="W4 帳號設定" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -112,10 +112,10 @@
         <mxCell id="1_NJj8xl-dc6zlVxFNVT-13" value="S1 模板設定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1_NJj8xl-dc6zlVxFNVT-14" value="S1 數據視覺化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1_NJj8xl-dc6zlVxFNVT-14" value="S1 數據視覺化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1_NJj8xl-dc6zlVxFNVT-15" value="S1 大數據結構 /&lt;br&gt;AI模型結果呈現" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1_NJj8xl-dc6zlVxFNVT-15" value="S1 大數據結構 /&lt;br&gt;AI模型結果呈現" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1_NJj8xl-dc6zlVxFNVT-23" value="S2 用戶管理系統" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -124,7 +124,7 @@
         <mxCell id="1_NJj8xl-dc6zlVxFNVT-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1_NJj8xl-dc6zlVxFNVT-25" target="1_NJj8xl-dc6zlVxFNVT-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1_NJj8xl-dc6zlVxFNVT-25" value="W7&amp;nbsp; 追蹤賺錢任務" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1_NJj8xl-dc6zlVxFNVT-25" value="W7&amp;nbsp; 追蹤賺錢任務" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="280" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1_NJj8xl-dc6zlVxFNVT-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -136,7 +136,7 @@
         <mxCell id="1_NJj8xl-dc6zlVxFNVT-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1_NJj8xl-dc6zlVxFNVT-27" target="1_NJj8xl-dc6zlVxFNVT-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1_NJj8xl-dc6zlVxFNVT-27" value="W8&amp;nbsp; 點數購買" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1_NJj8xl-dc6zlVxFNVT-27" value="W8&amp;nbsp; 點數購買" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="280" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1_NJj8xl-dc6zlVxFNVT-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -145,16 +145,16 @@
             <mxPoint x="280" y="979.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1_NJj8xl-dc6zlVxFNVT-29" value="S1 賺錢 or 發起任務" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1_NJj8xl-dc6zlVxFNVT-29" value="S1 賺錢 or 發起任務" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1_NJj8xl-dc6zlVxFNVT-31" value="S1 金流購買" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1_NJj8xl-dc6zlVxFNVT-31" value="S1 金流購買" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1_NJj8xl-dc6zlVxFNVT-34" value="S3 金流管理系統" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1_NJj8xl-dc6zlVxFNVT-34" value="S3 金流管理系統" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1_NJj8xl-dc6zlVxFNVT-35" value="S4 追蹤賺錢管理系統" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1_NJj8xl-dc6zlVxFNVT-35" value="S4 追蹤賺錢管理系統" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="1290" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
